@@ -1,0 +1,15 @@
+.todo-input {
+  width: 200px;
+  height: 36px;
+  line-height: 36px;
+
+}
+.todo-btn {
+  width: 100px;
+  height: 42px;
+  line-height: 42px;
+  background: #3385ff;
+  color: #ffffff;
+  margin-left: 15px;
+  text-align: center;
+}
